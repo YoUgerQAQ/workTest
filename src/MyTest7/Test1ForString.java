@@ -20,6 +20,5 @@ public class Test1ForString {
 //        sb.appendCodePoint(97);           加入ASCII字符
 //        sb.insert(1,s);                   在下标处插入字符
 //        sb.append(s) ;                    加入字符
-        System.out.println(sb);
     }
 }

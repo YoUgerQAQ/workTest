@@ -20,5 +20,6 @@ public class Test7ForArray {
         Arrays.fill(a1,0);
         //let element fill of the array
         IntStream is = Arrays.stream(a);
+        //
     }
 }
