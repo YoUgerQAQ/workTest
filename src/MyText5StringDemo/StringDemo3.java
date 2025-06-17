@@ -3,7 +3,6 @@ package MyText5StringDemo;
 public class StringDemo3 {
     public static void main(String[] args) {
         int[] arr = {8,9,3,1,7,8,3,8,5};
-
         System.out.println(arrSetting(arr));
     }
     public static String arrSetting(int[] arr){
