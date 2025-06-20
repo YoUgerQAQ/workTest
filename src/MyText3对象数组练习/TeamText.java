@@ -7,8 +7,8 @@ public class TeamText {
         //创建三个数组
         //在小括号里按ctrl+p显示属性
         Team items1 = new Team("001", "华为", 9999.0, 10);
-        Team items2 = new Team("002", "Appple", 7999.0, 50);
-        Team items3 = new Team("mmb", "MyLover", 9999999.0, 1);
+        Team items2 = new Team("002", "Apple", 7999.0, 50);
+        Team items3 = new Team("rmb", "MyLover", 9999999.0, 1);
 
         //把商品添加到数组中
         arr[0] = items1;

@@ -1,5 +1,7 @@
 package MyTest7;
 
+import java.util.stream.IntStream;
+
 public class Test1ForString {
     public static void main(String[] args) {
         //①当对字符串进行修改的时候，需要使用 StringBuffer 和 StringBuilder 类
